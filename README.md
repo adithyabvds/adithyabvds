@@ -1,4 +1,4 @@
-# Hi, I'm Adithya BV 👋
+# Hi, I'm Adithya B V 👋
 
 🎓 Data Science Student at MS Ramaiah University of Applied Sciences  
 📊 Interested in Data Analytics, Machine Learning, and AI  
