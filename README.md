@@ -1,47 +1,159 @@
-# Hi, I'm Adithya B V 👋
+# Adithya B V
 
-🎓 Data Science Student at MS Ramaiah University of Applied Sciences  
-📊 Interested in Data Analytics, Machine Learning, and AI  
-💻 Working on industrial and data-driven projects  
+B.Sc (Hons) Data Science & Analytics  
+MS Ramaiah University of Applied Sciences  
+Bengaluru, India  
+Email: shiftx.gg@gmail.com  
+
+Aspiring Data Scientist focused on building data-driven solutions using analytics, machine learning, and AI.
+
+---
+
+## About Me
+
+I am a Data Science student and aspiring technology professional with a strong focus on solving real-world problems through data and software solutions.
+
+- Strong foundation in data analysis, machine learning, and visualization  
+- Experience working with real-world datasets and industry-oriented projects  
+- Skilled in Python, SQL, and Power BI  
+- Focused on building scalable and practical solutions  
+
+**Career Objective:**  
+To design and implement impactful data science and AI solutions across industries.
+
+---
+
+## Experience
+
+**Data Analyst Intern**  
+Future Interns, Bengaluru  
+February 2026 – March 2026  
+- Worked on real-world datasets  
+- Performed exploratory data analysis and visualization  
+- Generated business insights through structured reporting  
+
+**Data Analyst Intern**  
+Unified Mentor, Bengaluru  
+January 2026 – July 2026  
+- Conducted data analysis for business use cases  
+- Developed dashboards and analytical reports  
+- Applied data-driven approaches to support decision-making  
+
+---
 
 ## Skills
 
 ### Programming
-- Python
-- R Programming
-- SQL
+- Python  
+- R  
+- SQL  
 
-### Data Analysis & Statistics
-- Data Processing
-- Multivariate Analysis
-- Statistical Analysis
+### Data Science Core
+- Machine Learning  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis  
+- Regression and Time Series Analysis  
 
-### Data Tools
-- Excel
-- Power BI
+### Tools and Visualization
+- Microsoft Excel  
+- Power BI  
+- Tableau  
 
 ### Data Engineering
-- Data Warehousing
-- Data Mining
+- Data Warehousing  
+- Data Mining  
 
-## Connect with Me
+### Systems and Infrastructure
+- Linux  
+- Database Management Systems (DBMS)  
+- Network Attached Storage (OpenMediaVault)  
+
+---
+
+## Projects
+
+**Customer Retention and Churn Analysis**  
+- Analyzed e-commerce customer data to identify churn patterns  
+- Built a Random Forest model for prediction  
+- Developed an interactive Power BI dashboard  
+GitHub: https://github.com/adithyabvds/Customer-Retention-and-Churn-Analysis  
+
+**Customer Behaviour and Marketing Funnel Analysis**  
+- Analyzed user engagement and traffic data  
+- Built dashboards to visualize customer behavior  
+GitHub: https://github.com/adithyabvds/Customer-Behaviour-and-Marketing-Funnel-Analysis  
+
+**Retail Sales Performance Analytics**  
+- Conducted exploratory data analysis on retail datasets  
+- Identified trends, correlations, and performance insights  
+GitHub: https://github.com/adithyabvds/Retail-Sales-Performance-Analytics  
+
+**OpenMediaVault NAS Setup**  
+- Built a NAS system using OpenMediaVault on Linux  
+- Configured secure file sharing and remote access  
+GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS  
+
+---
+
+## Startup and Product Development
+
+**Spark Labs and Technologies**  
+Founder and Lead Developer  
+
+Developing a multi-product technology platform focused on AI solutions, MSME tools, and scalable software systems.
+
+**AcuLedger**  
+- Business management platform for MSMEs  
+- Features include inventory, invoicing, and analytics dashboards  
+- Enables data-driven decision-making  
+
+Application: https://spark-aculedger.onrender.com/  
+Repository: https://github.com/adithyabvds/aculedger  
+
+---
+
+## Certifications
+
+- Tata – GenAI Powered Data Analytics (Forage)  
+- British Airways – Data Science (Forage)  
+- Data Science and Analytics Internship – Future Interns  
+- AI Tools Workshop – Be10x  
+
+---
+
+## Publications and Blogs
+
+**My Experience Attending Snowflake Data for Breakfast (APAC)**  
+- Covered data engineering, AI integration, and cloud-based systems  
+- Focused on real-world applications of data science  
+
+Blog: https://adithyabvds.github.io/blog/  
+
+---
+
+## Portfolio
+
+https://adithyabvds.github.io/
+
+---
+
+## Contact
 
 LinkedIn: https://linkedin.com/in/adithyadsa  
-Kaggle: https://kaggle.com/dexterplayzx
+Kaggle: https://kaggle.com/dexterplayzx  
+GitHub: https://github.com/adithyabvds  
+Instagram: https://instagram.com/adithyabvds  
 
-📍 Bengaluru, India
+---
 
-<!--
-**adithyabvds/adithyabvds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
 
-Here are some ideas to get you started:
+- Building AI-powered applications  
+- Working on real-world data analytics projects  
+- Developing scalable solutions for business use cases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Vision
+
+To contribute to the development of technology-driven solutions across industries using Data Science and Artificial Intelligence.
