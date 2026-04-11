@@ -121,16 +121,6 @@ Repository: https://github.com/adithyabvds/aculedger
 
 ---
 
-## Publications and Blogs
-
-**My Experience Attending Snowflake Data for Breakfast (APAC)**  
-- Covered data engineering, AI integration, and cloud-based systems  
-- Focused on real-world applications of data science  
-
-Blog: https://adithyabvds.github.io/blog/  
-
----
-
 ## Portfolio
 
 https://adithyabvds.github.io/
