@@ -72,6 +72,12 @@ January 2026 – July 2026
 
 ## Projects
 
+**EduPro Student Segmentation and Personalized Course Recommendation System**
+- Developed an AI-driven educational analytics system for learner segmentation and personalized course recommendations
+- Implemented K-Means and Hierarchical Clustering for student behavior analysis
+- Built an interactive Streamlit dashboard with prediction, visualization, and recommendation features
+GitHub: [EduPro Student Segmentation and Personalized Course Recommendation System](https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System)
+
 **Customer Retention and Churn Analysis**  
 - Analyzed e-commerce customer data to identify churn patterns  
 - Built a Random Forest model for prediction  
@@ -98,7 +104,7 @@ GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS
 ## Startup and Product Development
 
 **Spark Labs and Technologies**  
-Founder and Lead Developer  
+Founder and Principal Architect
 
 Developing a multi-product technology platform focused on AI solutions, MSME tools, and scalable software systems.
 
