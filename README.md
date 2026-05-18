@@ -76,7 +76,7 @@ January 2026 – July 2026
 - Developed an AI-driven educational analytics system for learner segmentation and personalized course recommendations
 - Implemented K-Means and Hierarchical Clustering for student behavior analysis
 - Built an interactive Streamlit dashboard with prediction, visualization, and recommendation features
-GitHub: [EduPro Student Segmentation and Personalized Course Recommendation System](https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System)
+GitHub: https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System
 
 **Customer Retention and Churn Analysis**  
 - Analyzed e-commerce customer data to identify churn patterns  
