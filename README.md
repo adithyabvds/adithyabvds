@@ -76,28 +76,28 @@ January 2026 – July 2026
 - Developed an AI-driven educational analytics system for learner segmentation and personalized course recommendations
 - Implemented K-Means and Hierarchical Clustering for student behavior analysis
 - Built an interactive Streamlit dashboard with prediction, visualization, and recommendation features
-GitHub: https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System
+**GitHub: https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System**
 
 **Customer Retention and Churn Analysis**  
 - Analyzed e-commerce customer data to identify churn patterns  
 - Built a Random Forest model for prediction  
 - Developed an interactive Power BI dashboard  
-GitHub: https://github.com/adithyabvds/Customer-Retention-and-Churn-Analysis  
+**GitHub: https://github.com/adithyabvds/Customer-Retention-and-Churn-Analysis**
 
 **Customer Behaviour and Marketing Funnel Analysis**  
 - Analyzed user engagement and traffic data  
 - Built dashboards to visualize customer behavior  
-GitHub: https://github.com/adithyabvds/Customer-Behaviour-and-Marketing-Funnel-Analysis  
+**GitHub: https://github.com/adithyabvds/Customer-Behaviour-and-Marketing-Funnel-Analysis**
 
 **Retail Sales Performance Analytics**  
 - Conducted exploratory data analysis on retail datasets  
 - Identified trends, correlations, and performance insights  
-GitHub: https://github.com/adithyabvds/Retail-Sales-Performance-Analytics  
+**GitHub: https://github.com/adithyabvds/Retail-Sales-Performance-Analytics**  
 
 **OpenMediaVault NAS Setup**  
 - Built a NAS system using OpenMediaVault on Linux  
 - Configured secure file sharing and remote access  
-GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS  
+**GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS**  
 
 ---
 
