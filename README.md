@@ -1,11 +1,10 @@
 # Adithya B V
-### B.Sc (Hons) Data Science & Analytics
-### MS Ramaiah University of Applied Sciences
-### Bengaluru, India
-### Aspiring Data Scientist focused on building data-driven solutions using analytics, machine learning, and AI.
+#### B.Sc (Hons) Data Science & Analytics
+#### MS Ramaiah University of Applied Sciences
+#### Bengaluru, India
+#### Aspiring Data Scientist focused on building data-driven solutions using analytics, machine learning, and AI.
 
---
-## About Me
+#### About Me
 
 I am a Data Science student and aspiring technology professional with hands-on experience developing predictive models, interactive dashboards, and AI-powered applications. I specialize in solving real-world problems through data analytics and machine learning.
 
@@ -15,7 +14,7 @@ I am a Data Science student and aspiring technology professional with hands-on e
 - **Industry Experience**: Banking, Retail, Manufacturing, and Education domains
 - **Soft Skills**: Problem Solving, Analytical Thinking, Communication, Teamwork
 
-## Notable Achievements:
+#### Notable Achievements:
 
 - Built AI-powered recommendation systems achieving 98.85% classification accuracy
 - Developed banking analytics platforms with 86.45% churn prediction accuracy
