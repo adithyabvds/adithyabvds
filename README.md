@@ -37,7 +37,6 @@ January 2026 – July 2026
 - Applied data-driven approaches to support decision-making  
 
 ---
-```markdown
 # Projects
 
 ## EduPro – Student Segmentation & Personalized Course Recommendation System
@@ -52,9 +51,9 @@ Developed an AI-driven educational analytics platform for learner segmentation a
 - Live recommendation system deployment
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System
-- 🚀 Live Demo: https://edupro-student-segmentation.streamlit.app/
-- 📄 Research Paper: https://doi.org/10.5281/zenodo.20202154
+- GitHub: https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System
+- Live Demo: https://edupro-student-segmentation.streamlit.app/
+- Research Paper: https://doi.org/10.5281/zenodo.20202154
 
 ---
 
@@ -71,9 +70,9 @@ Built a banking analytics platform for customer segmentation and churn predictio
 - Interactive Streamlit analytics platform
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/Customer-Segmentation-Churn-Pattern-Analytics-in-European-Banking
-- 🚀 Live Demo: https://eu-churn-and-ret.streamlit.app/
-- 📄 Research Paper: https://doi.org/10.5281/zenodo.20283400
+- GitHub: https://github.com/adithyabvds/Customer-Segmentation-Churn-Pattern-Analytics-in-European-Banking
+- Live Demo: https://eu-churn-and-ret.streamlit.app/
+- Research Paper: https://doi.org/10.5281/zenodo.20283400
 
 ---
 
@@ -90,9 +89,9 @@ Engineered an enterprise analytics platform for restaurant profitability optimiz
 - Interactive Streamlit dashboard with what-if simulator
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/Restaurant-Cost-Structure-and-Channel-Wise-Profitability-Analytics
-- 🚀 Live Demo: https://skycity-auckland.streamlit.app/
-- 📄 Research Paper: https://doi.org/10.5281/zenodo.20413403
+- GitHub: https://github.com/adithyabvds/Restaurant-Cost-Structure-and-Channel-Wise-Profitability-Analytics
+- Live Demo: https://skycity-auckland.streamlit.app/
+- Research Paper: https://doi.org/10.5281/zenodo.20413403
 
 ---
 
@@ -109,9 +108,9 @@ Developed a machine health monitoring and predictive maintenance analytics platf
 - Real-time Streamlit monitoring dashboard
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/6G-Smart-Manufacturing-Analytics
-- 🚀 Live Demo: https://6g-smart-manufacturing-analytics.streamlit.app/
-- 📄 Research Paper: https://doi.org/10.5281/zenodo.21076024
+- GitHub: https://github.com/adithyabvds/6G-Smart-Manufacturing-Analytics
+- Live Demo: https://6g-smart-manufacturing-analytics.streamlit.app/
+- Research Paper: https://doi.org/10.5281/zenodo.21076024
 
 ---
 
@@ -128,7 +127,7 @@ Analyzed website traffic and customer engagement data to evaluate marketing funn
 - Marketing funnel optimization recommendations
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/Customer-Behaviour-and-Marketing-Funnel-Analysis
+- GitHub: https://github.com/adithyabvds/Customer-Behaviour-and-Marketing-Funnel-Analysis
 
 ---
 
@@ -144,7 +143,7 @@ Analyzed e-commerce customer interaction data to identify churn behavior and ret
 - Churn analysis and business recommendations
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/Customer-Retention-and-Churn-Analysis
+- GitHub: https://github.com/adithyabvds/Customer-Retention-and-Churn-Analysis
 
 ---
 
@@ -161,7 +160,7 @@ Performed end-to-end exploratory data analysis on international retail transacti
 - Interactive KPI dashboard
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/Retail-Sales-Performance-Analytics
+- GitHub: https://github.com/adithyabvds/Retail-Sales-Performance-Analytics
 
 ---
 
@@ -178,7 +177,7 @@ Repurposed legacy hardware into a fully functional Network Attached Storage (NAS
 - Network troubleshooting and optimization
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS
+- GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS
 
 ---
 
@@ -195,10 +194,10 @@ Developed a compiler-inspired AI system that transforms natural language softwar
 - Deployed frontend and backend with Swagger API documentation
 
 **Links**
-- 📂 GitHub: https://github.com/adithyabvds/AI-App-Compiler
-- 🚀 Frontend: https://ai-app-compiler-production.up.railway.app
-- ⚙️ Backend API: https://ai-app-compiler-api-production.up.railway.app
-- 📖 API Documentation: https://ai-app-compiler-api-production.up.railway.app/docs
+- GitHub: https://github.com/adithyabvds/AI-App-Compiler
+- Frontend: https://ai-app-compiler-production.up.railway.app
+- Backend API: https://ai-app-compiler-api-production.up.railway.app
+- API Documentation: https://ai-app-compiler-api-production.up.railway.app/docs
 
 ```
 
