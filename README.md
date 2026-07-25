@@ -3,7 +3,6 @@ Adithya B V
 B.Sc (Hons) Data Science & Analytics
 MS Ramaiah University of Applied Sciences
 Bengaluru, India
-Email: shiftx.gg@gmail.com
 Aspiring Data Scientist focused on building data-driven solutions using analytics, machine learning, and AI.
 
 --
@@ -18,6 +17,36 @@ I am a Data Science student and aspiring technology professional with hands-on e
 **Soft Skills**: Problem Solving, Analytical Thinking, Communication, Teamwork
 
 
+---
+
+# 🌐 Portfolio & Contact
+
+## Portfolio
+
+🌍 **Portfolio Website**  
+**https://adithyabvds.github.io/**
+
+---
+
+## Contact
+
+📧 **Email**  
+adithyabvds@gmail.com
+
+💼 **LinkedIn**  
+https://linkedin.com/in/adithyabvds
+
+💻 **GitHub**  
+https://github.com/adithyabvds
+
+📊 **Kaggle**  
+https://kaggle.com/adithyabvds
+
+🤗 **Hugging Face**  
+https://huggingface.co/adithyabvds
+
+📸 **Instagram**  
+https://instagram.com/adithyabvds
 ---
 
 ## Experience
@@ -198,8 +227,6 @@ Developed a compiler-inspired AI system that transforms natural language softwar
 - Frontend: https://ai-app-compiler-production.up.railway.app
 - Backend API: https://ai-app-compiler-api-production.up.railway.app
 - API Documentation: https://ai-app-compiler-api-production.up.railway.app/docs
-
-```
 
 ---
 
