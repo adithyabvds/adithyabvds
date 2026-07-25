@@ -44,29 +44,28 @@ January 2026 – July 2026
 ## Skills
 
 ### Programming
-- Python  
-- R  
-- SQL  
+Python, SQL, R
 
-### Data Science Core
-- Machine Learning  
-- Exploratory Data Analysis (EDA)  
-- Statistical Analysis  
-- Regression and Time Series Analysis  
+### Machine Learning
+Scikit-learn, XGBoost, LightGBM
 
-### Tools and Visualization
-- Microsoft Excel  
-- Power BI  
-- Tableau  
+### Data Analysis
+Pandas, NumPy, Matplotlib, Plotly
 
-### Data Engineering
-- Data Warehousing  
-- Data Mining  
+### Visualization
+Power BI, Streamlit
 
-### Systems and Infrastructure
-- Linux  
-- Database Management Systems (DBMS)  
-- Network Attached Storage (OpenMediaVault)  
+### Databases
+SQL
+
+### Tools
+Git, GitHub, Jupyter Notebook
+
+### Coursework
+Machine Learning, Statistics, Data Structures & Algorithms, Database Management Systems, Artificial Intelligence
+
+### Soft Skills
+Problem Solving, Analytical Thinking, Communication, Teamwork
 
 ---
 
