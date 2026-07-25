@@ -58,14 +58,14 @@ https://instagram.com/adithyabvds
 
 ## Experience
 
-**Data Analyst Intern**  
+**Data Science Intern**  
 Future Interns, Bengaluru  
 February 2026 – March 2026  
 - Worked on real-world datasets  
 - Performed exploratory data analysis and visualization  
 - Generated business insights through structured reporting  
 
-**Data Analyst Intern**  
+**Data Science Intern**  
 Unified Mentor, Bengaluru  
 January 2026 – July 2026  
 - Conducted data analysis for business use cases  
