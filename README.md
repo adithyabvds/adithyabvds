@@ -1,25 +1,22 @@
-# Adithya B V
+Adithya B V
 
-B.Sc (Hons) Data Science & Analytics  
-MS Ramaiah University of Applied Sciences  
-Bengaluru, India  
-Email: shiftx.gg@gmail.com  
-
+B.Sc (Hons) Data Science & Analytics
+MS Ramaiah University of Applied Sciences
+Bengaluru, India
+Email: shiftx.gg@gmail.com
 Aspiring Data Scientist focused on building data-driven solutions using analytics, machine learning, and AI.
 
----
-
+--
 ## About Me
 
-I am a Data Science student and aspiring technology professional with a strong focus on solving real-world problems through data and software solutions.
+I am a Data Science student and aspiring technology professional with hands-on experience developing predictive models, interactive dashboards, and AI-powered applications. I specialize in solving real-world problems through data analytics and machine learning.
 
-- Strong foundation in data analysis, machine learning, and visualization  
-- Experience working with real-world datasets and industry-oriented projects  
-- Skilled in Python, SQL, and Power BI  
-- Focused on building scalable and practical solutions  
+**Technical Expertise**: Python, SQL, R, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Plotly
+**Data Visualization & Tools**: Power BI, Streamlit, Git, GitHub, Jupyter Notebook
+**Core Competencies**: Machine Learning, Exploratory Data Analysis (EDA), Feature Engineering, Predictive Modeling
+**Industry Experience**: Banking, Retail, Manufacturing, and Education domains
+**Soft Skills**: Problem Solving, Analytical Thinking, Communication, Teamwork
 
-**Career Objective:**  
-To design and implement impactful data science and AI solutions across industries.
 
 ---
 
@@ -40,63 +37,170 @@ January 2026 – July 2026
 - Applied data-driven approaches to support decision-making  
 
 ---
+```markdown
+# Projects
 
-## Skills
+## EduPro – Student Segmentation & Personalized Course Recommendation System
+**Technologies:** Python • Pandas • Scikit-learn • XGBoost • Random Forest • Streamlit
 
-### Programming
-Python, SQL, R
+Developed an AI-driven educational analytics platform for learner segmentation and personalized course recommendations using machine learning and clustering techniques. Built an interactive Streamlit application for prediction, visualization, and recommendation.
 
-### Machine Learning
-Scikit-learn, XGBoost, LightGBM
+**Highlights**
+- Random Forest classifier achieving **98.85% accuracy**
+- K-Means and Hierarchical Clustering for learner segmentation
+- Interactive Streamlit dashboard with prediction interface
+- Live recommendation system deployment
 
-### Data Analysis
-Pandas, NumPy, Matplotlib, Plotly
-
-### Visualization
-Power BI, Streamlit
-
-### Databases
-SQL
-
-### Tools
-Git, GitHub, Jupyter Notebook
-
-### Coursework
-Machine Learning, Statistics, Data Structures & Algorithms, Database Management Systems, Artificial Intelligence
-
-### Soft Skills
-Problem Solving, Analytical Thinking, Communication, Teamwork
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System
+- 🚀 Live Demo: https://edupro-student-segmentation.streamlit.app/
+- 📄 Research Paper: https://doi.org/10.5281/zenodo.20202154
 
 ---
 
-## Projects
+## Customer Segmentation & Churn Pattern Analytics in European Banking
+**Technologies:** Python • Scikit-learn • Random Forest • XGBoost • PCA • Streamlit
 
-**EduPro Student Segmentation and Personalized Course Recommendation System**
-- Developed an AI-driven educational analytics system for learner segmentation and personalized course recommendations
-- Implemented K-Means and Hierarchical Clustering for student behavior analysis
-- Built an interactive Streamlit dashboard with prediction, visualization, and recommendation features
-- **GitHub: https://github.com/adithyabvds/EduPro-Student-Segmentation-Recommendation-System**
+Built a banking analytics platform for customer segmentation and churn prediction across European markets. Implemented clustering techniques and ensemble machine learning models to support customer risk analysis and executive reporting.
 
-**Customer Retention and Churn Analysis**  
-- Analyzed e-commerce customer data to identify churn patterns  
-- Built a Random Forest model for prediction  
-- Developed an interactive Power BI dashboard  
-- **GitHub: https://github.com/adithyabvds/Customer-Retention-and-Churn-Analysis**
+**Highlights**
+- Random Forest model achieving **86.45% accuracy**
+- K-Means clustering for customer segmentation
+- PCA-based visualization of customer groups
+- Multi-model performance comparison dashboard
+- Interactive Streamlit analytics platform
 
-**Customer Behaviour and Marketing Funnel Analysis**  
-- Analyzed user engagement and traffic data  
-- Built dashboards to visualize customer behavior  
-- **GitHub: https://github.com/adithyabvds/Customer-Behaviour-and-Marketing-Funnel-Analysis**
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/Customer-Segmentation-Churn-Pattern-Analytics-in-European-Banking
+- 🚀 Live Demo: https://eu-churn-and-ret.streamlit.app/
+- 📄 Research Paper: https://doi.org/10.5281/zenodo.20283400
 
-**Retail Sales Performance Analytics**  
-- Conducted exploratory data analysis on retail datasets  
-- Identified trends, correlations, and performance insights  
-- **GitHub: https://github.com/adithyabvds/Retail-Sales-Performance-Analytics**  
+---
 
-**OpenMediaVault NAS Setup**  
-- Built a NAS system using OpenMediaVault on Linux  
-- Configured secure file sharing and remote access  
-- **GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS**  
+## AI Powered Restaurant Cost Structure & Channel-Wise Profitability Analytics
+**Technologies:** Python • LightGBM • XGBoost • Random Forest • Plotly • Streamlit
+
+Engineered an enterprise analytics platform for restaurant profitability optimization across multiple delivery channels. Developed machine learning models for profitability prediction and business intelligence dashboards for operational decision-making.
+
+**Highlights**
+- LightGBM model achieving **98.82% accuracy**
+- Multi-model comparison (LightGBM, Random Forest, XGBoost)
+- K-Means clustering with PCA visualization
+- Channel-wise profitability analysis
+- Interactive Streamlit dashboard with what-if simulator
+
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/Restaurant-Cost-Structure-and-Channel-Wise-Profitability-Analytics
+- 🚀 Live Demo: https://skycity-auckland.streamlit.app/
+- 📄 Research Paper: https://doi.org/10.5281/zenodo.20413403
+
+---
+
+## Machine Health & Operational Efficiency Classification in 6G-Enabled Smart Manufacturing
+**Technologies:** Python • Scikit-learn • Plotly • Streamlit • Industrial IoT Analytics
+
+Developed a machine health monitoring and predictive maintenance analytics platform using industrial telemetry data. Built interactive dashboards for operational efficiency evaluation and production performance monitoring.
+
+**Highlights**
+- Multinomial Logistic Regression achieving **91.71% accuracy**
+- Processed **100,000+** industrial telemetry records
+- Machine health and defect density scoring
+- 6G network performance diagnostics
+- Real-time Streamlit monitoring dashboard
+
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/6G-Smart-Manufacturing-Analytics
+- 🚀 Live Demo: https://6g-smart-manufacturing-analytics.streamlit.app/
+- 📄 Research Paper: https://doi.org/10.5281/zenodo.21076024
+
+---
+
+## Customer Behaviour & Marketing Funnel Analysis
+**Technologies:** Python • Pandas • Matplotlib • Seaborn • Power BI
+
+Analyzed website traffic and customer engagement data to evaluate marketing funnel performance. Performed feature engineering, exploratory data analysis, and built Power BI dashboards to provide actionable business insights.
+
+**Highlights**
+- Website traffic and engagement analysis
+- Feature engineering for engagement metrics
+- Interactive Power BI dashboards
+- Traffic source and device performance insights
+- Marketing funnel optimization recommendations
+
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/Customer-Behaviour-and-Marketing-Funnel-Analysis
+
+---
+
+## Customer Retention & Churn Analysis
+**Technologies:** Python • Pandas • Scikit-learn • Power BI • Jupyter Notebook
+
+Analyzed e-commerce customer interaction data to identify churn behavior and retention opportunities. Built machine learning models and interactive dashboards to support customer retention strategies.
+
+**Highlights**
+- Random Forest churn prediction model
+- User-level feature engineering
+- Power BI dashboard for retention analytics
+- Churn analysis and business recommendations
+
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/Customer-Retention-and-Churn-Analysis
+
+---
+
+## Retail Sales Performance Analytics
+**Technologies:** Python • Pandas • Matplotlib • Power BI
+
+Performed end-to-end exploratory data analysis on international retail transactions to identify sales trends, customer behavior, and business opportunities. Built interactive Power BI dashboards for executive reporting.
+
+**Highlights**
+- Analysis of **500,000+** retail transactions
+- Revenue and seasonal trend analysis
+- Product and country performance evaluation
+- Customer contribution analysis
+- Interactive KPI dashboard
+
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/Retail-Sales-Performance-Analytics
+
+---
+
+## OpenMediaVault NAS on Legacy Hardware
+**Technologies:** Linux • OpenMediaVault • Samba/SMB • SSH • Storage Management
+
+Repurposed legacy hardware into a fully functional Network Attached Storage (NAS) server using OpenMediaVault. Configured secure file sharing, user authentication, and system monitoring while demonstrating Linux system administration skills.
+
+**Highlights**
+- OpenMediaVault deployment and configuration
+- Secure SMB/CIFS file sharing
+- ACL-based permission management
+- Remote administration and monitoring
+- Network troubleshooting and optimization
+
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/OpenMediaVault-NAS
+
+---
+
+## AI App Compiler – Natural Language to Application Specification Generator
+**Technologies:** Python • FastAPI • React • SQLite • Machine Learning Pipeline
+
+Developed a compiler-inspired AI system that transforms natural language software requirements into validated application specifications. Implemented a multi-stage pipeline for intent extraction, architecture generation, UI/API/Database/Auth generation, validation, automatic repair, and runtime verification.
+
+**Highlights**
+- Multi-stage compiler pipeline architecture
+- Intent extraction → Architecture → UI/API/Database/Auth generation
+- Validation and automatic repair engine
+- SQLite runtime execution verification
+- Deployed frontend and backend with Swagger API documentation
+
+**Links**
+- 📂 GitHub: https://github.com/adithyabvds/AI-App-Compiler
+- 🚀 Frontend: https://ai-app-compiler-production.up.railway.app
+- ⚙️ Backend API: https://ai-app-compiler-api-production.up.railway.app
+- 📖 API Documentation: https://ai-app-compiler-api-production.up.railway.app/docs
+
+```
 
 ---
 
