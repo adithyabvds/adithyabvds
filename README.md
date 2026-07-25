@@ -254,38 +254,16 @@ Repository: https://github.com/adithyabvds/aculedger
 
 ---
 
-## Certifications
+# Certifications
 
-- Tata – GenAI Powered Data Analytics (Forage)  
-- British Airways – Data Science (Forage)  
-- Data Science and Analytics Internship – Future Interns  
-- AI Tools Workshop – Be10x  
+- **Tata – GenAI Powered Data Analytics (Forage)**  
+  https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6923063e6e88547664e355af_1766510503663_completion_certificate.pdf
 
----
+- **British Airways – Data Science (Forage)**  
+  https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6923063e6e88547664e355af_1768323737861_completion_certificate.pdf
 
-## Portfolio
+- **Data Science & Analytics – Future Interns**  
+  https://futureinterns.com/verification/?cin=FIT/JAN26/DS11619
 
-https://adithyabvds.github.io/
-
----
-
-## Contact
-
-LinkedIn: https://linkedin.com/in/adithyadsa  
-Kaggle: https://kaggle.com/dexterplayzx  
-GitHub: https://github.com/adithyabvds  
-Instagram: https://instagram.com/adithyabvds  
-
----
-
-## Current Focus
-
-- Building AI-powered applications  
-- Working on real-world data analytics projects  
-- Developing scalable solutions for business use cases  
-
----
-
-## Vision
-
-To contribute to the development of technology-driven solutions across industries using Data Science and Artificial Intelligence.
+- **Data Science & Analytics – Unified Mentor**  
+  https://unifiedmentor.com/verify-certificate/UMID12012677868
