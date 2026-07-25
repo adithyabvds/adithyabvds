@@ -47,6 +47,7 @@ https://huggingface.co/adithyabvds
 
 📸 **Instagram**  
 https://instagram.com/adithyabvds
+
 ---
 
 ## Experience
