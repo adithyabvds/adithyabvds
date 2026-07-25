@@ -1,9 +1,8 @@
-Adithya B V
-
-B.Sc (Hons) Data Science & Analytics
-MS Ramaiah University of Applied Sciences
-Bengaluru, India
-Aspiring Data Scientist focused on building data-driven solutions using analytics, machine learning, and AI.
+# Adithya B V
+### B.Sc (Hons) Data Science & Analytics
+### MS Ramaiah University of Applied Sciences
+### Bengaluru, India
+### Aspiring Data Scientist focused on building data-driven solutions using analytics, machine learning, and AI.
 
 --
 ## About Me
