@@ -10,12 +10,20 @@ Aspiring Data Scientist focused on building data-driven solutions using analytic
 
 I am a Data Science student and aspiring technology professional with hands-on experience developing predictive models, interactive dashboards, and AI-powered applications. I specialize in solving real-world problems through data analytics and machine learning.
 
-**Technical Expertise**: Python, SQL, R, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Plotly
-**Data Visualization & Tools**: Power BI, Streamlit, Git, GitHub, Jupyter Notebook
-**Core Competencies**: Machine Learning, Exploratory Data Analysis (EDA), Feature Engineering, Predictive Modeling
-**Industry Experience**: Banking, Retail, Manufacturing, and Education domains
-**Soft Skills**: Problem Solving, Analytical Thinking, Communication, Teamwork
+- **Technical Expertise**: Python, SQL, R, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Plotly
+- **Data Visualization & Tools**: Power BI, Streamlit, Git, GitHub, Jupyter Notebook
+- **Core Competencies**: Machine Learning, Exploratory Data Analysis (EDA), Feature Engineering, Predictive Modeling
+- **Industry Experience**: Banking, Retail, Manufacturing, and Education domains
+- **Soft Skills**: Problem Solving, Analytical Thinking, Communication, Teamwork
 
+## Notable Achievements:
+
+- Built AI-powered recommendation systems achieving 98.85% classification accuracy
+- Developed banking analytics platforms with 86.45% churn prediction accuracy
+- Created industrial monitoring systems processing 100,000+ telemetry records
+
+## Career Objective:
+*To design and implement impactful data science and AI solutions across industries.*
 
 ---
 
